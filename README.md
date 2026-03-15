@@ -22,7 +22,7 @@ Clean design · Easy config · No dependencies
 
 | Loading Screen | Music Player |
 |:-:|:-:|
-| ![Preview 1](preview/screenshot1.png) | ![Preview 2](preview/screenshot2.png) |
+| ![Preview 1](preview/JN5m) | ![Preview 2](preview/62XN) |
 
 > 🎬 https://www.youtube.com/watch?v=LvjLMtsanOQ
 
