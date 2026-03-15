@@ -18,7 +18,7 @@ Clean design · Easy config · No dependencies
 
 ## 📸 Preview
 
-> _Replace the images below with your own screenshots_
+> _screenshots_
 
 | Loading Screen | Music Player |
 |:-:|:-:|
