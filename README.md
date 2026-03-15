@@ -24,7 +24,7 @@ Clean design · Easy config · No dependencies
 |:-:|:-:|
 | ![Preview 1](preview/screenshot1.png) | ![Preview 2](preview/screenshot2.png) |
 
-> 🎬 **[Watch video preview](preview/preview.mp4)**
+> 🎬 https://www.youtube.com/watch?v=LvjLMtsanOQ
 
 ---
 
