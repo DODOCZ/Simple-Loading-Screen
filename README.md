@@ -235,4 +235,4 @@ See [LICENSE.md](LICENSE.md) for full terms.
 
 Made with ❤️ by **DDCZ Dev Team**
 
-> 💬 Questions or issues? Open an [Issue](../../issues) or join our [Discord](https://discord.gg/ddcz)
+> 💬 Questions or issues? Open an [Issue](../../issues) or join our [Discord](https://discord.gg/TyEEcP9gp8)
